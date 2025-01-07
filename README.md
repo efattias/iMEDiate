@@ -1,4 +1,4 @@
-<h1>README: iMEDiate</h1>
+<h1>iMEDiate- Emergency medical system</h1>
 
 <h2>Overview</h2>
 <p>
